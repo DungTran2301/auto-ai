@@ -1,0 +1,511 @@
+__label__hỏi_đáp châu_lục nào lớn nhất thế_giới
+__label__hỏi_đáp sông nào dài nhất thế_giới
+__label__hỏi_đáp hai nhân 2 bằng bao_nhiêu
+__label__hỏi_đáp mười lăm_nhân hai mươi bằng bao_nhiêu
+__label__hỏi_đáp bài hát hoa_hồng mong_manh là của tác_giả nào
+__label__hỏi_đáp nghĩa quân_tây sơn do ai lãnh_đạo
+__label__hỏi_đáp ai là người tìm ra châu_mỹ
+__label__hỏi_đáp rác_thải nhựa ảnh_hưởng như_thế_nào đến môi_trường
+__label__hỏi_đáp kể tên một_số loài mèo
+__label__hỏi_đáp quốc_ca việt_nam sáng_tác năm nào
+__label__hỏi_đáp máy_tính đầu_tiên do ai sáng_chế ra
+__label__hỏi_đáp làm thế_nào người ta giải_mã các chuỗi dna 
+__label__hỏi_đáp môi_trường sống của ếch
+__label__hỏi_đáp cách thiết_kế một trang_web tĩnh hiệu_quả như_thế_nào 
+__label__hỏi_đáp làm thế_nào để nấu một chiếc bánh_chocolate ngon nhất 
+__label__hỏi_đáp điểm du_lịch nổi_tiếng nhất ở kyoto là gì 
+__label__hỏi_đáp tại_sao cách_mạng công_nghiệp lại quan_trọng đối_với sự phát_triển của xã_hội 
+__label__hỏi_đáp sự khác_biệt giữa virus và vi_khuẩn là gì 
+__label__hỏi_đáp ai là họa_sĩ nổi_tiếng nhất trong lịch_sử nghệ_thuật 
+__label__hỏi_đáp làm thế_nào để bắt_đầu một công_ty khởi_nghiệp thành_công 
+__label__hỏi_đáp cách giảng_dạy stem khoa_học công_nghệ kỹ_thuật và toán cho trẻ_em một_cách thú_vị 
+__label__hỏi_đáp ai là cầu_thủ bóng_đá xuất_sắc nhất thế_giới hiện_nay 
+__label__hỏi_đáp làm thế_nào để giảm căng_thẳng và lo_âu trong cuộc_sống hàng ngày 
+__label__hỏi_đáp làm thế_nào chúng_ta có_thể giảm lượng rác_thải nhựa trên hành_tinh ai 
+__label__hỏi_đáp là nhân_vật mạnh_mẽ nhất trong vũ_trụ marvel 
+__label__hỏi_đáp làm thế_nào để tăng hiệu_suất nông_nghiệp mà không gây hại cho môi_trường 
+__label__hỏi_đáp bản_nhạc nào được coi là tác_phẩm nghệ_thuật xuất_sắc nhất trong lịch_sử âm_nhạc 
+__label__hỏi_đáp tại_sao việc giáo_dục giới_tính là quan_trọng 
+__label__hỏi_đáp cách máy_học được sử_dụng để dự_đoán xu_hướng tài_chính 
+__label__hỏi_đáp làm thế_nào để xây_dựng lòng tự_trọng và tự_tin 
+__label__hỏi_đáp làm thế_nào để bảo_vệ mình trước các cuộc tấn_công mạng 
+__label__hỏi_đáp cách các robot tự học và thích_ứng với môi_trường xung_quanh
+__label__hỏi_đáp tại_sao các dãy núi thường xuất_hiện ở ranh_giới của các biểu_đồ địa_hình lớn trên trái_đất 
+__label__hỏi_đáp làm thế_nào các loại đá khác nhau được hình_thành và ảnh_hưởng đến môi_trường xung_quanh 
+__label__hỏi_đáp làm thế_nào hệ_thống dòng_chảy biển ảnh_hưởng đến khí_hậu trên trái_đất
+__label__hỏi_đáp tại_sao một_số thành_phố lớn được xây_dựng gần các con sông hoặc bờ biển 
+__label__hỏi_đáp tại_sao các khu_vực rừng nhiệt_đới có đa_dạng_sinh_học cao như_vậy 
+__label__hỏi_đáp làm thế_nào biến_đổi khí_hậu đang ảnh_hưởng đến các nguồn nước_ngọt trên trái_đất
+__label__hỏi_đáp ai là người sáng_lập nên nước việt_nam dân_chủ cộng hòa nay là cộng_hòa xã_hội_chủ_nghĩa_việt_nam vào năm 1945 
+__label__hỏi_đáp trong cuộc chiến_tranh việt_nam cái tên hồ chí_minh đề_cập đến ai và vị_trí quan_trọng của ông trong lịch_sử việt_nam 
+__label__hỏi_đáp những sự_kiện nào dẫn đến việc thống_nhất việt_nam vào năm 1975 
+__label__hỏi_đáp câu_chuyện nào nổi_tiếng trong lịch_sử việt_nam mô_tả về người phụ_nữ dũng_cảm chống lại xâm_lược của người trung_quốc 
+__label__hỏi_đáp ai là người sáng_lập ra đế_chế la_mã và làm thay_đổi hình_dạng của nền văn_hóa và chính_trị thế_giới cổ_đại 
+__label__hỏi_đáp trong chiến_tranh thế_giới thứ hai hãng truyền_thông nào chơi vai_trò quan_trọng trong việc truyền_thông và giữ liên_lạc giữa các quốc_gia
+__label__hỏi_đáp thiết_lập nào được đặt ra tại hội_nghị yalta và potsdam sau chiến_tranh thế_giới thứ hai 
+__label__hỏi_đáp ai là người lãnh_đạo của phong_trào dân_quyền ở hoa_kỳ và vai_trò của ông trong việc chấm_dứt phân_chia chủng_tộc 
+__label__hỏi_đáp cách_mạng công_nghiệp là gì và ảnh_hưởng của nó đối_với xã_hội và kinh_tế thế_giới
+__label__hỏi_đáp các hành_tinh trong hệ mặt_trời được xếp theo thứ_tự từ xa tới gần là gì 
+__label__hỏi_đáp tại_sao sao mộc được gọi_là sao lùn sao băng và thiên_thạch khác nhau như_thế_nào 
+__label__hỏi_đáp nguyên_nhân gây ra các hiện_tượng sao băng như mưa sao băng là gì 
+__label__hỏi_đáp sao biểu_diễn sự sáng lẫn và sự chết của một ngôi_sao _chuỗi núi sao galaxy là gì và cấu_trúc của chúng như_thế_nào 
+__label__hỏi_đáp lỗ đen là gì và tại_sao chúng không cho_phép cả ánh_sáng cũng không_thể thoát ra khỏi nó 
+__label__hỏi_đáp ngôi_sao neutron là gì và chúng được hình_thành như_thế_nào 
+__label__hỏi_đáp vì sao có các mùa trong năm và nguyên_nhân gây ra các thảm_họa tự_nhiên như bão và động_đất 
+__label__hỏi_đáp hiện_tượng ngày và đêm là do điều gì xảy ra trên trái_đất 
+__label__hỏi_đáp hiện_tượng nguyệt_thực và nhật_thực xảy ra khi nào và tại_sao chúng diễn ra 
+__label__hỏi_đáp tại_sao nguyệt_thực có_thể làm mất ánh_sáng trăng hoặc làm mờ đi ánh_sáng của mặt_trời 
+__label__hỏi_đáp tại_sao có mùa xuân hạ thu và đông 
+__label__hỏi_đáp hiện_tượng nhiệt_độ toàn_cầu đang thay_đổi như_thế_nào và có những ảnh_hưởng gì đối_với hành_tinh của chúng_ta 
+__label__hỏi_đáp sao băng được hình_thành từ đâu và vì sao chúng rơi xuống trái_đất 
+__label__hỏi_đáp các hạt sao meteor thường có nguồn_gốc từ đâu và chúng được tạo ra như_thế_nào 
+__label__hỏi_đáp tại_sao mặt_trời mọc ở hướng đông và lặn ở hướng tây 
+__label__hỏi_đáp các màu_sắc khác nhau trong bình_minh và hoàng_hôn là do điều gì tạo ra
+__label__hỏi_đáp các sự_kiện lớn như sự_kiện big_bang và ý_nghĩa của chúng trong việc hiểu về nguồn_gốc của vũ_trụ là gì 
+__label__hỏi_đáp sự hiểu_biết của chúng_ta về vũ_trụ đã thay_đổi như_thế_nào qua các thời_kỳ lịch_sử
+__label__hỏi_đáp 15 nhân 20 bằng bao_nhiêu 
+__label__hỏi_đáp 15 x 20 bằng bao_nhiêu 
+__label__hỏi_đáp 20 chia 10 bằng bao_nhiêu 
+__label__hỏi_đáp 20 trừ 15 bằng bao_nhiêu 
+__label__hỏi_đáp 15 x 20 bằng bao_nhiêu 
+__label__hỏi_đáp diện_tích tam_giác có 3 cạnh lần_lượt là 15 mét 20 mét 25 mét là bao_nhiêu
+__label__hỏi_đáp diện_tích hình_tròn có bán_kính 20 cm là bao_nhiêu 
+__label__hỏi_đáp 15 nhân 20 bằng bao_nhiêu 
+__label__hỏi_đáp kết_quả của 20 chia 10 là gì 
+__label__hỏi_đáp 20 trừ 15 bằng bao_nhiêu 
+__label__hỏi_đáp nếu bạn nhân 15 với 20 bạn sẽ được kết_quả gì 
+__label__hỏi_đáp diện_tích của tam_giác có các cạnh là 15 mét 20 mét và 25 mét là bao_nhiêu mét_vuông 
+__label__hỏi_đáp nếu bạn có một hình_tròn với bán_kính là 20 cm diện_tích của hình_tròn đó là bao_nhiêu xăng ti mét_vuông 
+__label__hỏi_đáp 10 nhân 20 bằng bao_nhiêu 
+__label__hỏi_đáp kết_quả của 25 chia 5 là gì
+__label__hỏi_đáp nếu bạn trừ 20 từ 30 bạn sẽ được bao_nhiêu 
+__label__hỏi_đáp kết_quả của 3 nhân 15 là gì 
+__label__hỏi_đáp diện_tích của hình_vuông có cạnh 10 cm là bao_nhiêu xăng ti mét_vuông
+__label__hỏi_đáp nếu bạn nhân 12 với 25 bạn sẽ được giá_trị gì
+__label__hỏi_đáp kết_quả của 40 4 là gì
+__label__hỏi_đáp nếu bạn có một hình_chữ_nhật với chiều dài 18 cm và chiều rộng 5 cm diện_tích của nó là bao_nhiêu xăng ti mét_vuông 
+__label__hỏi_đáp 7 nhân 30 bằng bao_nhiêu 
+__label__hỏi_đáp nếu bạn chia 50 cho 5 bạn sẽ được giá_trị gì 
+__label__hỏi_đáp 18 22 bằng bao_nhiêu _
+__label__hỏi_đáp nếu bạn nhân 9 với 16 bạn sẽ được kết_quả gì 
+__label__hỏi_đáp diện_tích của hình_chữ_nhật có chiều dài 12 cm và chiều rộng 8 cm là bao_nhiêu xăng ti mét_vuông 
+__label__hỏi_đáp kết_quả của 35 chia 7 là gì 
+__label__hỏi_đáp nếu bạn trừ 45 từ 60 bạn sẽ có bao_nhiêu 
+__label__hỏi_đáp 6 25 bằng bao_nhiêu 
+__label__hỏi_đáp nếu bạn nhân 14 với 17 bạn sẽ được kết_quả gì 
+__label__hỏi_đáp 80 10 bằng bao_nhiêu 
+__label__hỏi_đáp diện_tích của hình_tròn có bán_kính 15 cm là bao_nhiêu xăng ti mét_vuông 
+__label__hỏi_đáp kết_quả của 11 nhân 11 là gì 
+__label__hỏi_đáp nếu bạn chia 56 cho 8 bạn sẽ có giá_trị gì 
+__label__hỏi_đáp 24 36 bằng bao_nhiêu 
+__label__hỏi_đáp kết_quả của 9 nhân 9 là gì 
+__label__hỏi_đáp hai trăm cộng ba_mươi bằng bao_nhiêu
+__label__hỏi_đáp hai trăm_trừ bảy_mươi bằng bao_nhiêu 
+__label__hỏi_đáp một trăm_nhân tám_mươi bằng bao_nhiêu
+__label__hỏi_đáp hai mươi chia bởi năm bằng bao_nhiêu
+__label__hỏi_đáp sáu_mươi cộng một_trăm bằng bao_nhiêu
+__label__hỏi_đáp bốn_mươi trừ chín bằng bao_nhiêu 
+__label__hỏi_đáp mười_lăm nhân_bảy bằng bao_nhiêu
+__label__hỏi_đáp ba_mươi chia bởi bảy bằng bao_nhiêu
+__label__hỏi_đáp năm_mươi_cộng ba_mươi bằng bao_nhiêu
+__label__hỏi_đáp mười một trừ chín bằng bao_nhiêu 
+__label__hỏi_đáp bốn_mươi lăm_nhân ba bằng bao_nhiêu
+__label__hỏi_đáp ba trăm chia bởi sáu bằng bao_nhiêu
+__label__hỏi_đáp bảy_mươi chín cộng bốn_mươi bằng bao_nhiêu
+__label__hỏi_đáp hai mươi một trừ chín bằng bao_nhiêu 
+__label__hỏi_đáp năm_mươi chia bởi mười bằng bao_nhiêu
+__label__hỏi_đáp tám trăm cộng chín_mươi bằng bao_nhiêu 
+__label__hỏi_đáp một_trăm mười bảy trừ mười bằng bao_nhiêu
+__label__hỏi_đáp sáu_mươi bốn nhân ba bằng bao_nhiêu 
+__label__hỏi_đáp hai mươi một chia bởi tư bằng bao_nhiêu
+__label__hỏi_đáp ba trăm chín_mươi mười_cộng sáu mươi bằng bao_nhiêu 
+__label__hỏi_đáp ba trăm chín_mươi một trừ bảy_mươi bằng bao_nhiêu
+__label__hỏi_đáp bảy_mươi lăm_nhân hai bằng bao_nhiêu 
+__label__hỏi_đáp hai trăm bốn_mươi một chia bởi chín bằng bao_nhiêu 
+__label__hỏi_đáp ba mươi_lăm cộng một_trăm bằng bao_nhiêu
+__label__hỏi_đáp sáu mươi chín_trừ ba_mươi bằng bao_nhiêu 
+__label__hỏi_đáp năm trăm mười bốn nhân hai bằng bao_nhiêu
+__label__hỏi_đáp một_trăm mười một chia bởi sáu bằng bao_nhiêu 
+__label__hỏi_đáp một_trăm mười_cộng chín_mươi bằng bao_nhiêu 
+__label__hỏi_đáp bốn trăm chín_mươi chia bởi hai bằng bao_nhiêu 
+__label__hỏi_đáp một_trăm mười bốn trừ tám_mươi bằng bao_nhiêu 
+__label__hỏi_đáp nếu bạn trừ 75 từ 90 bạn sẽ có bao_nhiêu 
+__label__hỏi_đáp mười chín cộng tám bằng mấy 
+__label__hỏi_đáp ba_mươi trừ mười bằng bao_nhiêu 
+__label__hỏi_đáp hai mươi_lăm cộng chín bằng bao_nhiêu 
+__label__hỏi_đáp hai mươi một trừ tám bằng bao_nhiêu 
+__label__hỏi_đáp bảy nhân tám bằng mấy _
+__label__hỏi_đáp bốn_mươi chia bởi năm bằng bao_nhiêu 
+__label__hỏi_đáp tám_mươi chia bởi mười bằng bao_nhiêu 
+__label__hỏi_đáp năm lẻ mười chia bởi hai bằng bao_nhiêu 
+__label__hỏi_đáp hai mươi lũy thừa ba là bao_nhiêu
+__label__hỏi_đáp căn bậc hai của bảy là bao_nhiêu
+__label__hỏi_đáp mười lũy thừa bốn là bao_nhiêu
+__label__hỏi_đáp căn bậc hai của một_trăm là bao_nhiêu
+__label__hỏi_đáp ba lần bốn cộng hai bằng bao_nhiêu
+__label__hỏi_đáp bảy trừ hai nhân ba bằng bao_nhiêu 
+__label__hỏi_đáp mười chia bởi hai cộng năm bằng bao_nhiêu
+__label__hỏi_đáp hai lần ba nhân chín chia ba bằng bao_nhiêu
+__label__hỏi_đáp hai tám và chín có phải là số trung_bình của bao_nhiêu số không 
+__label__hỏi_đáp tìm một_số sao cho nếu cộng với bảy rồi chia cho ba thì kết_quả là năm
+__label__hỏi_đáp tìm một_số sao cho bảy lần số đó bằng bốn_mươi chín
+__label__hỏi_đáp mười phần_trăm của một_trăm là bao_nhiêu 
+__label__hỏi_đáp nếu một_số lớn hơn một_số khác một phần_trăm số lớn hơn là bao_nhiêu phần_trăm của số nhỏ hơn
+__label__hỏi_đáp so_sánh 58 và 34 số nào lớn hơn
+__label__hỏi_đáp so_sánh căn bậc hai của 16 và căn bậc hai của 25 số nào lớn hơn
+__label__hỏi_đáp so_sánh 0 75 và 35 số nào lớn hơn
+__label__hỏi_đáp một tam_giác có bốn góc vuông và một góc nhọn tìm góc nhọn đó 
+__label__hỏi_đáp nếu một chiếc xe chạy với vận_tốc 60 kmh trong 3 giờ hãy tính khoảng_cách đã đi được 
+__label__hỏi_đáp nếu một hình_tròn có bán_kính là 10 cm hãy tính chu_vi và diện_tích của hình_tròn đó
+__label__giá_cả giá xăng ron 92
+__label__giá_cả giá dầu diesel
+__label__giá_cả giá xăng ron 95
+__label__giá_cả giá dầu hỏa
+__label__giá_cả giá xăng ron 92 hôm nay
+__label__giá_cả giá dầu diesel hôm nay
+__label__giá_cả giá xăng ron 95 hôm nay
+__label__giá_cả giá dầu hỏa hôm nay
+__label__giá_cả giá xăng ron 92 hôm nay là bao nhiêu
+__label__giá_cả giá dầu diesel hôm nay là bao nhiêu
+__label__giá_cả giá xăng ron 95 hôm nay là bao nhiêu
+__label__giá_cả giá dầu hỏa hôm nay là bao nhiêu
+__label__giá_cả hôm nay giá xăng ron 92 bao nhiêu
+__label__giá_cả hôm nay giá dầu diesel bao nhiêu
+__label__giá_cả hôm nay giá xăng ron 95 bao nhiêu
+__label__giá_cả hôm nay giá dầu hỏa bao nhiêu
+__label__giá_cả giá vàng hôm_nay là bao_nhiêu 
+__label__giá_cả giá vàng hôm_nay tại việt_nam 
+__label__giá_cả giá vàng 9999 hôm_nay 
+__label__giá_cả giá vàng sjc hôm_nay là bao_nhiêu 
+__label__giá_cả giá vàng miếng hôm_nay 
+__label__giá_cả giá đô la_mỹ hôm_nay là bao_nhiêu 
+__label__giá_cả tỷ_giá đô_la mỹ sang đồng việt_nam hôm_nay 
+__label__giá_cả tỷ giá usdvnd hôm_nay 
+__label__giá_cả giá đô la_mỹ so với đồng yên_nhật hôm_nay là bao_nhiêu 
+__label__giá_cả tỷ giá eurusd hôm_nay 
+__label__giá_cả giá vàng 9999 tăng giảm như_thế_nào trong tuần này 
+__label__giá_cả giá vàng sjc dự_kiến sẽ thay_đổi như_thế_nào trong tháng này 
+__label__giá_cả giá vàng 9999 dự_kiến sẽ ổn_định trong quý này không
+__label__giá_cả giá vàng miếng tăng giảm như_thế_nào trong năm nay 
+__label__giá_cả giá đô la_mỹ dự_kiến sẽ tăng giảm như_thế_nào trong tháng này
+__label__thời_tiết thời_tiết hà_nội hôm_nay thế_nào
+__label__thời_tiết thời_tiết ở hà_nội hôm_nay như thế_nào
+__label__thời_tiết thời_tiết ở thành_phố hồ chí_minh_ngày_mai sẽ thế_nào
+__label__thời_tiết dự_báo thời_tiết tại đà_nẵng ngày_kia
+__label__thời_tiết thời_tiết ở huế chiều mai sẽ như thế_nào
+__label__thời_tiết thời_tiết ở cần thơ trong ngày_mai
+__label__thời_tiết thời_tiết ở sài_gòn tối nay ra sao
+__label__thời_tiết dự_báo thời_tiết tại hải_phòng ngày_mai
+__label__thời_tiết thời_tiết ở đà lạt vào hôm_nay thế_nào
+__label__thời_tiết thời_tiết ở hội_an có đẹp không vào tháng 10
+__label__thời_tiết thời_tiết ở nha_trang vào chiều nay 
+__label__thời_tiết thời_tiết ở hải_dương ngày_mai dự_kiến sẽ như_thế_nào
+__label__thời_tiết dự_báo thời_tiết tại thanh_hóa vào cuối tuần này là gì
+__label__thời_tiết thời_tiết ở vũng_tàu trong tuần này dự_kiến sẽ như_thế_nào
+__label__thời_tiết thời_tiết ở hà_tĩnh vào buổi sáng ngày_mai là gì
+__label__thời_tiết dự_báo thời_tiết tại bạc_liêu vào cuối tháng này sẽ thế_nào
+__label__thời_tiết thời_tiết ở bắc_kạn vào buổi tối ngày_mai sẽ như_thế_nào
+__label__thời_tiết thời_tiết ở quảng_nam vào sáng thứ_sáu dự_kiến sẽ ra sao
+__label__thời_tiết dự_báo thời_tiết tại kon_tum trong ngày_kia là gì
+__label__thời_tiết thời_tiết ở cao_bằng vào cuối tháng này dự_kiến sẽ như_thế_nào
+__label__thời_tiết thời_tiết ở sơn_la vào buổi trưa ngày_mai là gì
+__label__thời_tiết thời_tiết ở phú_yên vào chiều nay dự_kiến sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở nghệ_an vào tối nay dự_kiến sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại đắk_lắk vào sáng_mai là gì 
+__label__thời_tiết thời_tiết ở hải_phòng vào chiều mai sẽ ra sao 
+__label__thời_tiết thời_tiết ở hồ_chí_minh vào tối_mai dự_kiến sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại vũng_tàu vào ngày_kia là gì 
+__label__thời_tiết thời_tiết ở quy_nhơn vào sáng thứ năm dự_kiến sẽ như_thế_nào
+__label__thời_tiết thời_tiết ở hà_nội vào tối thứ năm dự_kiến sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại nha_trang vào sáng thứ_sáu là gì 
+__label__thời_tiết thời_tiết ở huế vào chiều thứ_sáu sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở cần_thơ vào tối thứ_sáu dự_kiến sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại đà_nẵng vào sáng thứ_bảy là gì 
+__label__thời_tiết thời_tiết ở hải_dương vào chiều thứ_bảy sẽ ra sao 
+__label__thời_tiết thời_tiết ở quảng_ngãi vào tối thứ_bảy dự_kiến sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại bạc_liêu vào ngày chủ_nhật là gì 
+__label__thời_tiết thời_tiết ở bắc_ninh vào buổi sáng chủ_nhật sẽ như_thế_nào
+__label__thời_tiết thời_tiết ở bình_dương vào buổi trưa chủ_nhật sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại sài_gòn vào buổi tối chủ_nhật là gì 
+__label__thời_tiết thời_tiết ở quy_nhơn vào sáng thứ hai dự_kiến sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở thành_phố hồ_chí_minh vào buổi trưa thứ hai sẽ ra sao 
+__label__thời_tiết dự_báo thời_tiết tại vũng_tàu vào buổi tối thứ hai là gì 
+__label__thời_tiết thời_tiết ở hà_nội vào buổi sáng thứ ba dự_kiến sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở thanh_hóa vào buổi trưa thứ ba sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại đà_lạt vào buổi tối thứ ba là gì 
+__label__thời_tiết thời_tiết ở nghệ_an vào sáng thứ tư dự_kiến sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở quảng_ninh vào buổi trưa thứ tư sẽ như_thế_nào 
+__label__thời_tiết dự_báo thời_tiết tại hải_dương vào buổi tối thứ tư là gì 
+__label__thời_tiết thời_tiết ở vinh vào buổi sáng thứ năm dự_kiến sẽ như_thế_nào 
+__label__thời_tiết thời_tiết ở hà_tĩnh vào buổi trưa thứ năm sẽ như_thế_nào
+__label__thời_tiết dự_báo thời_tiết tại cần_thơ vào buổi tối thứ năm là gì
+__label__nghe_nhạc mở nhạc mỹ_tâm
+__label__nghe_nhạc phát_nhạc rap_nổi_tiếng 
+__label__nghe_nhạc chơi bài hát pop việt_nam 
+__label__nghe_nhạc mở album nhạc rock
+__label__nghe_nhạc nghe nhạc hiphop_thịnh_hành 
+__label__nghe_nhạc phát danh_sách nhạc edm
+__label__nghe_nhạc bật nhạc ballad_buồn 
+__label__nghe_nhạc chơi nhạc đồng_quê mới 
+__label__nghe_nhạc nghe nhạc jazz mellow
+__label__nghe_nhạc nghe bài hát sài_gòn đẹp lắm 
+__label__nghe_nhạc mở bài hát về quê_nhà của mỹ_tâm
+__label__nghe_nhạc chơi nhạc phải_chăng em đã yêu 
+__label__nghe_nhạc nghe hit mới của sơn_tùng m tp 
+__label__nghe_nhạc mở bản_nhạc đúng người đúng thời_điểm 
+__label__nghe_nhạc nghe bài hát đi đu_đưa đi của bích_phương 
+__label__nghe_nhạc mở_hit sóng_gió của jack và k icm 
+__label__nghe_nhạc chơi nhạc gác lại âu_lo của đen vâu 
+__label__nghe_nhạc nghe bài hát người lạ ơi của karik và orange 
+__label__nghe_nhạc mở hit bạc_phận của jack và k icm 
+__label__nghe_nhạc nghe nhạc của hồng_nhung và vũ_khanh 
+__label__nghe_nhạc chơi_nhạc của dân_ca việt_nam 
+__label__nghe_nhạc mở nhạc trịnh_công_sơn tình_khúc 
+__label__nghe_nhạc nghe bài hát lạc_trôi của sơn_tùng m tp 
+__label__nghe_nhạc chơi hit đánh mất người_yêu của vũ 
+__label__nghe_nhạc mở hit khi em lớn của justatee 
+__label__nghe_nhạc nghe bản_nhạc cho người về điều còn lại
+__label__nghe_nhạc mở bài hát tháng năm của soobin_hoàng_sơn 
+__label__nghe_nhạc nghe hit để mỹ_tâm_hát cho người nghe 
+__label__nghe_nhạc chơi nhạc như một ngày đại_dương của khắc việt
+__label__nghe_nhạc mở nhạc đen và mtv lối nhỏ 
+__label__nghe_nhạc chơi hit người âm_phủ
+__label__nghe_nhạc nghe bài hát điều anh biết của chi_dân 
+__label__nghe_nhạc mở bản_nhạc vợ người ta của phan_mạnh_quỳnh 
+__label__nghe_nhạc chơi nhạc đã từng hạnh_phúc
+__label__nghe_nhạc nghe hit em_gái mưa của hương tràm 
+__label__nghe_nhạc mở nhạc yêu đơn_phương của onlyc
+__label__nghe_nhạc chơi hit anh đã quen với cô_đơn
+__label__nghe_nhạc nghe bài hát buồn làm_chi em ơi
+__label__nghe_nhạc mở bản_nhạc ngày chưa giông_bão của hoàng thùy_linh 
+__label__nghe_nhạc chơi nhạc sài_gòn đau_lòng quá của hứa kim_tuyền 
+__label__nghe_nhạc nghe hit như lời đồn của bảo anh 
+__label__nghe_nhạc mở nhạc buồn không em của onlyc 
+__label__nghe_nhạc chơi bài hát trên tình_bạn dưới tình_yêu của min 
+__label__nghe_nhạc nghe hit gửi anh và cô ấy của khắc_việt 
+__label__nghe_nhạc mở nhạc sao anh chưa về nhà của amee và ricky star 
+__label__nghe_nhạc chơi nhạc chưa bao_giờ mẹ kể của bích_phương 
+__label__nghe_nhạc nghe bài hát cô gái m52 của huỳnh_james và pjnboys 
+__label__nghe_nhạc mở bản_nhạc nếu ngày ấy của erik và min 
+__label__nghe_nhạc chơi hit tháng năm không quên của onlyc
+__label__nghe_nhạc nghe nhạc bạc_phận của jack và k icm 
+__label__nghe_nhạc mở nhạc cô thắm không về
+__label__nghe_nhạc chơi hit cơn mưa ngang qua của sơn_tùng m tp 
+__label__nghe_nhạc nghe bài hát hãy trao cho anh của sơn_tùng m tp và snoop dogg 
+__label__nghe_nhạc mở nhạc buồn của anh của k icm và đạt g 
+__label__nghe_nhạc chơi nhạc bùa yêu của bích_phương 
+__label__nghe_nhạc nghe hit ngày_mai em đi
+__label__nghe_nhạc mở bản_nhạc đừng hỏi em của mỹ_tâm 
+__label__nghe_nhạc chơi_nhạc sóng_gió của jack và k icm 
+__label__nghe_nhạc nghe bài hát_mơ của hứa_minh đạt 
+__label__nghe_nhạc mở nhạc từng yêu của phan_duy_anh 
+__label__nghe_nhạc chơi bài hát ngày chia_tay của erik
+__label__nghe_nhạc nghe hit độ_tộc 2 của masew và độ mixi 
+__label__nghe_nhạc mở nhạc xin đừng lặng_im của soobin_hoàng_sơn 
+__label__nghe_nhạc chơi nhạc tặng anh cho cô ấy của khắc_việt 
+__label__nghe_nhạc nghe bài hát đom_đóm của jack 
+__label__nghe_nhạc mở bản_nhạc trời giấu trời mang đi của sơn_tùng m tp 
+__label__nghe_nhạc chơi hit anh nhà ở đâu_thế của amee 
+__label__nghe_nhạc nghe nhạc một đêm say của
+__label__nghe_nhạc mở_nhạc chẳng_thể giữ lấy em của karik và phương_ly
+__label__nghe_nhạc nghe bài hát lý con sáo bạc_liêu của ca_sĩ phi_nhung 
+__label__nghe_nhạc nghe bài hát trống_cơm
+__label__nghe_nhạc nghe bài hát điều buồn nhất của ca_sĩ hồ quang_hiếu 
+__label__nghe_nhạc nghe bài hát biển nhớ của ca_sĩ quang_dũng 
+__label__nghe_nhạc nghe bài hát em đi qua cầu cây
+__label__nghe_nhạc nghe bài hát tình_khúc vàng của ca_sĩ thái_thanh 
+__label__nghe_nhạc nghe bài hát hòa_nhạc trống_cơm
+__label__nghe_nhạc nghe bài hát hải_đường vắng em của ca_sĩ quang_lê 
+__label__nghe_nhạc nghe bài hát sương trắng miền quê ngoại của ca_sĩ thái_thanh 
+__label__nghe_nhạc nghe bài hát gặp nhau làm_ngơ
+__label__nghe_nhạc nghe bài hát liên_khúc trữ_tình của các ca_sĩ nổi_tiếng
+__label__nghe_nhạc nghe bài hát những ngày_xưa thân_ái của ca_sĩ quang_lê 
+__label__nghe_nhạc nghe bài hát hòa nhạc trữ_tình của ca_sĩ hồ quang_hiếu 
+__label__nghe_nhạc nghe bài hát cát bụi cuộc_đời
+__label__nghe_nhạc nghe bài hát tình nghèo có nhau của ca_sĩ quang_dũng 
+__label__nghe_nhạc nghe bài hát cây đàn sinh_viên của ca_sĩ quang_lê 
+__label__nghe_nhạc nghe bài hát đêm đông
+__label__nghe_nhạc nghe bài hát tình_cha của ca_sĩ hồ quang_hiếu 
+__label__nghe_nhạc nghe bài hát tình em là đại_dương của ca_sĩ lệ_quyên 
+__label__nghe_nhạc nghe bài hát nỗi buồn hoa phượng
+__label__nghe_nhạc nghe bài hát lk trữ_tình của các ca_sĩ nổi_tiếng 
+__label__nghe_nhạc nghe bài hát biển tình của ca_sĩ lệ_quyên 
+__label__nghe_nhạc nghe bài hát lời xin_lỗi của một dân_chơi của ca_sĩ đàm vĩnh_hưng 
+__label__nghe_nhạc nghe bài hát hòa nhạc trữ_tình dân_ca của ca_sĩ phi_nhung 
+__label__nghe_nhạc nghe bài hát tình_yêu khép lại của ca_sĩ quang_lê 
+__label__nghe_nhạc nghe bài hát người_tình mùa đông của ca_sĩ hồ quang_hiếu 
+__label__nghe_nhạc nghe bài hát mắt biếc của ca_sĩ đàm vĩnh_hưng 
+__label__nghe_nhạc nghe bài hát em ơi hà_nội phố
+__label__nghe_nhạc nghe bài hát tình ta biển bạc đồng xanh
+__label__xem_video mở video ca_nhạc
+__label__xem_video mở video ca_nhạc của sơn_tùng m tp
+__label__xem_video xem video ca_nhạc_nhạc trẻ việt_nam mới nhất
+__label__xem_video video ca_nhạc nổi_tiếng của justin bieber
+__label__xem_video xem video ca_nhạc hit kpop
+__label__xem_video video ca_nhạc_pop phổ_biến nhất trên youtube
+__label__xem_video mở video ca_nhạc hiphop thịnh_hành
+__label__xem_video xem video ca_nhạc_ballad tâm_trạng
+__label__xem_video mở video_ca_nhạc giải_trí việt_nam
+__label__xem_video xem video ca_nhạc retro thập_kỷ 80
+__label__xem_video video ca_nhạc rock nổi_tiếng của các ban nhạc
+__label__xem_video mở video âm_nhạc hòa_nhạc 
+__label__xem_video xem video âm_nhạc acoustic độc_đáo 
+__label__xem_video mở video âm_nhạc jazz và blues 
+__label__xem_video xem video âm_nhạc hip_hop underground 
+__label__xem_video mở video âm_nhạc rap freestyle 
+__label__xem_video xem video âm_nhạc điện_tử edm phổ_biến 
+__label__xem_video mở video âm_nhạc trance và techno 
+__label__xem_video xem video âm_nhạc dân_dã truyền_thống 
+__label__xem_video mở video âm_nhạc đồng_quê country 
+__label__xem_video xem video âm_nhạc nhạc_đỏ và nhạc_tài_tử việt_nam 
+__label__xem_video mở video âm_nhạc nhạc_trẻ việt_nam mới nhất 
+__label__xem_video xem video âm_nhạc nhạc_sĩ tự_sáng_tác 
+__label__xem_video mở video âm_nhạc nhạc_cổ_điển và opera
+__label__xem_video xem video âm_nhạc_nhạc_phim và nhạc truyền_hình
+__label__xem_video mở video âm_nhạc nhạc chuông điện_thoại di_động 
+__label__xem_video xem video âm_nhạc_nhạc học_đường và nhạc đám_cưới 
+__label__xem_video mở video âm_nhạc nhạc_thiền và nhạc yoga
+__label__xem_video xem video âm_nhạc_nhạc không lời và nhạc giảm stress 
+__label__xem_video mở video âm_nhạc_nhạc dành cho trẻ_em và bé yêu 
+__label__xem_video xem video âm_nhạc nhạc_chế và nhạc parody
+__label__tìm_đường chỉ đường đến 82 phố tràng tiền 
+__label__tìm_đường chỉ đường từ hồ gươm_plaza đến đường láng
+__label__tìm_đường dẫn đường đến chùa hà
+__label__tìm_đường tìm trạm xăng gần nhất 
+__label__tìm_đường tìm trường_học gần đây 
+__label__tìm_đường tìm bệnh_viện gần đây 
+__label__tìm_đường chỉ đường đến nhà_hàng gần nhất 
+__label__tìm_đường dẫn đường đến gara ô_tô gần nhất 
+__label__tìm_đường dẫn đường từ 136 thái_hà đến ngõ 23 nguyễn_trãi
+__label__tìm_đường tìm trạm xăng quanh đây 
+__label__tìm_đường tìm trường_học quanh đây 
+__label__tìm_đường tìm bệnh_viện quanh đây 
+__label__tìm_đường tìm đường từ ngõ 67 phố nguyễn_công_trứ đến công_viên thủ_lệ 
+__label__tìm_đường dẫn đường từ bảo_tàng hà_nội đến 934 xuân thủy cầu giấy 
+__label__tìm_đường chỉ đường đến sân_bay nội_bài 
+__label__tìm_đường chỉ đường từ ga hà_nội đến đại_lộ lê_ninh 
+__label__tìm_đường dẫn đường đến công_viên thống_nhất 
+__label__tìm_đường tìm trạm xe_buýt gần nhất 
+__label__tìm_đường tìm cửa_hàng tiện_lợi quanh đây 
+__label__tìm_đường tìm nhà_sách gần đây 
+__label__tìm_đường chỉ đường đến quán cà_phê phong_cách vintage 
+__label__tìm_đường dẫn đường đến chợ đêm nổi_tiếng 
+__label__tìm_đường dẫn đường từ nhà_thờ đức bà đến chùa lâm_tự 
+__label__tìm_đường tìm trạm xăng giữa đường 
+__label__tìm_đường tìm quán ăn đêm ngon nhất 
+__label__tìm_đường tìm bệnh_viện tâm_lý quanh đây 
+__label__tìm_đường tìm đường từ công_viên thống_nhất đến nhà_ga hà_nội 
+__label__tìm_đường dẫn đường từ quán trà sữa đến quán trà chanh 
+__label__tìm_đường chỉ đường đến quán ăn chay ngon
+__label__tìm_đường chỉ đường từ nhà_hàng pháp đến nhà_hàng ý
+__label__tìm_đường dẫn đường từ nhà_thờ đến siêu_thị gần nhất 
+__label__tìm_đường dẫn đường từ nhà_sách đến nhà_văn hóa thành_nhà
+__label__tìm_đường chỉ đường đến trung_tâm triển_lãm và hội_chợ
+__label__unknown thời_tiết hôm_nay không ảnh_hưởng đến bóng_đá 
+__label__unknown kinh_tế_thị_trường có ảnh_hưởng gì đến trường_học không
+__label__unknown nước mỹ và quảng_trường ba đình 
+__label__unknown châu_lục nào lớn nhất mẹ ơi thế_giới tối nay ăn gì 
+__label__unknown sông nào dài nhất thế_giới bố ơi mình đang đi đâu
+__label__unknown hai nhân 2 bằng bao_nhiêu bình nước lạnh mẹ ạ
+__label__unknown mười_lăm_nhân hai mươi bằng bao_nhiêu sống chung với mẹ chồng không hạnh_phúc
+__label__unknown bài hát hoa_hồng mong_manh là của tác_giả nào đường đi đến nhà tác_giả đó 
+__label__unknown nghĩa quân_tây_sơn do ai lãnh_đạo trong lịch_sử thời_tiết lúc đó như_thế_nào 
+__label__unknown ai là người bạn tìm ra châu_mỹ dạo này bạn ổn không 
+__label__unknown kể tên tôi khỏe một_số loài mèo bạn thế_nào 
+__label__unknown quốc_ca hôm_nay con được mười điểm việt_nam sáng_tác năm nào mẹ ạ
+__label__unknown máy_tính bác ơi đầu_tiên do ai sáng_chế ra thời_tiết hôm_nay đẹp anh_em nhỉ
+__label__unknown làm thế_nào người ta giải_mã xem video mẹ ơi con mới chuyển nhà 
+__label__unknown cách thiết_kế một trang_web_tĩnh hiệu_quả như_thế_nào 
+__label__unknown làm thế_nào để nấu một chiếc bánh_chocolate ngon nhất trong thời_tiết đẹp chuyển nhà ra sao 
+__label__unknown điểm du_lịch_nổi_tiếng nhất thời_tiết ra sao 
+__label__unknown con không ngoan_đối_với sự phát_triển của xã_hội giữa virus và vi_khuẩn 
+__label__unknown sự khác_biệt giữa virus và vi_khuẩn giá dầu giá xăng là gì 
+__label__unknown ai là họa_sĩ nổi_tiếng nhất trên đại_dương mênh_mông chỉ_trỏ 
+__label__unknown làm thế_nào để bắt_đầu một chỉ đường con ơi 
+__label__unknown cách máy_học được sử_dụng để dự_đoán xu_hướng_tài_chính mở nhạc sông hồng
+__label__unknown làm thế_nào để xây_dựng_lòng tự_trọng và tự_tin bật nhạc trẻ mới nổi 
+__label__unknown làm thế_nào để bảo_vệ mình trước các cuộc tấn_công_mạng mở nhạc bolero
+__label__unknown cách các robot tự học và thích_ứng với môi_trường xung_quanh giá dầu diesel 
+__label__unknown tại_sao các dãy núi thường xuất_hiện trên trái_đất giá dầu diesel 
+__label__unknown làm thế_nào các loại đá khác nhau được_giá dầu diesel
+__label__unknown làm thế_nào hệ_thống dòng_chảy biển trái_đất giá dầu diesel 
+__label__unknown tại_sao một_số thành_phố lớn được xây_dựng gần các con giá dầu diesel
+__label__unknown tại_sao các khu_vực rừng giá xăng ron 92 nhiệt_đới có đa_dạng_sinh_học cao_như_vậy hôm_nay là bao_nhiêu
+__label__unknown giá xăng ron 92 dòng_chảy thời_tiết và thích_ứng 
+__label__unknown tỷ_giá đô_la_mỹ sang đồng việt_nam hôm_nay
+__label__unknown tỷ_giá usdvnd hôm_nay 
+__label__unknown giá đô_la_mỹ so với đồng yên_nhật hôm_nay là bao_nhiêu
+__label__unknown tỷ_giá eurusd hôm_nay 
+__label__unknown mở ứng_dụng 
+__label__unknown giới_thiệu về công_ty
+__label__unknown thông_tin liên_hệ 
+__label__unknown gửi email cho tôi 
+__label__unknown gửi email cho tôi
+__label__unknown đặt hẹn khám bệnh
+__label__unknown đọc sách cho tôi
+__label__unknown tôi cần một trang_web mới
+__label__unknown đặt bánh_pizza online
+__label__unknown mua vé máy_bay đi paris
+__label__unknown tôi muốn đặt bàn tại nhà_hàng đẹp nhất ở đây
+__label__unknown hướng_dẫn sử_dụng photoshop
+__label__unknown tôi muốn học chơi đàn piano 
+__label__unknown hướng_dẫn tập_luyện cho người mới tập gym
+__label__unknown tôi cần một hướng_dẫn du_lịch tự_túc ở ý
+__label__unknown tìm_hiểu về các loại động_vật đang bị đe dọa 
+__label__unknown tôi muốn xem hướng_dẫn nấu_ăn trên youtube
+__label__unknown tìm_hiểu về triết_học đông_á
+__label__unknown hướng_dẫn chơi một trò_chơi video game nổi_tiếng
+__label__unknown tìm_hiểu về những kỹ_thuật nấu_ăn của đất_nước pháp 
+__label__unknown tôi muốn xem hướng_dẫn làm một chiếc váy may đơn 
+__label__unknown cách chăm_sóc và nuôi_dưỡng cây_cỏ trong vườn 
+__label__unknown mở cửa_sổ thời_gian 
+__label__unknown đặt hẹn giờ cho không_gian
+__label__unknown in bản_sao phản_bản 
+__label__unknown tạo một hộp trong một hộp 
+__label__unknown di_chuyển trái_tim sang phải 
+__label__unknown chia nhỏ nguyên_bản
+__label__unknown tìm_kiếm điểm dừng trong khoảng trắng
+__label__unknown đặt lưới gợn sóng cho âm_thanh 
+__label__unknown so_sánh độ dài của không_gian 
+__label__unknown đổi màu_sắc của thời_gian 
+__label__unknown tích_hợp biểu_đồ lưu_lượng truy_cập vào chuỗi ngôn_ngữ tự_nhiên 
+__label__unknown xây_dựng thuật_toán máy_học để dự_đoán thị_trường_chứng_khoán trong môi_trường không chắc_chắn 
+__label__unknown phân_tích và tổ_chức dữ_liệu đa_chiều từ các nguồn khác nhau như dữ_liệu hình_ảnh âm_thanh và văn_bản 
+__label__unknown thiết_kế giao_diện người dùng động thích_ứng với mọi thiết_bị từ điện_thoại thông_minh đến máy_tính đồng_bộ 
+__label__unknown tối_ưu_hóa thuật_toán tìm_kiếm để xử_lý hàng trăm triệu dữ_liệu hàng_giây 
+__label__unknown xây_dựng hệ_thống học máy dựa trên dữ_liệu phi_cấu_trúc và phi_tuyến tính 
+__label__unknown triển_khai một ứng_dụng máy_học dựa trên điện_toán lượng_tử để giải_quyết vấn_đề tối_ưu_hóa phức_tạp 
+__label__unknown kết_hợp học máy và thị_giác máy_tính để nhận_diện đối_tượng trong thời_gian thực từ video
+__label__unknown phát_triển một hệ_thống hỗ_trợ quyết_định tự_động cho các quyết_định y_tế phức_tạp 
+__label__unknown xây_dựng một ứng_dụng trí_tuệ nhân_tạo dựa trên mạng nơ ron_học sâu để sáng_tạo trong lĩnh_vực nghệ_thuật
+__label__unknown mở bản_đồ và chơi_nhạc cùng một lúc 
+__label__unknown tìm đường đi ngắn nhất đến nhà_hàng gần nhất và mở video âm_nhạc 
+__label__unknown hỏi về thời_tiết ở paris và chơi danh_sách nhạc ngẫu_nhiên
+__label__unknown cho biết giá_cả của iphone mới nhất và mở video hướng_dẫn sử_dụng 
+__label__unknown tìm hướng đi đến công_viên và hỏi về dự_báo thời_tiết của ngày_mai 
+__label__unknown xem video về nấu_ăn và đặt báo_thức cho buổi sáng 
+__label__unknown hỏi về giá_cả của vé máy_bay và mở danh_sách nhạc yêu_thích 
+__label__unknown mở địa_chỉ nhà_hàng đáng tin_cậy nhất và tìm_hiểu về thời_tiết tại đó 
+__label__unknown tìm đường đi đến trung_tâm mua_sắm và mở nhạc nền video giới_thiệu sản_phẩm 
+__label__unknown xem video hướng_dẫn làm mô_hình và hỏi về thời_tiết ở địa_phương của tôi 
+__label__unknown tìm_kiếm thông_tin về quốc_gia và mở video về du_lịch ẩm_thực 
+__label__unknown đặt báo_thức và hỏi về dự_báo thời_tiết của ngày_mai 
+__label__unknown xem video hướng_dẫn làm mỹ_phẩm tự_nhiên và mở danh_sách nhạc_jazz
+__label__unknown hỏi về giá_cả của xe_hơi và xem video hài trên youtube 
+__label__unknown tìm địa_chỉ của quán cà_phê và mở video âm_nhạc ngôn_tình 
+__label__unknown xem video về công_nghệ mới và đặt lịch hẹn với bác_sĩ
+__label__unknown hỏi về thời_gian mở_cửa của cửa_hàng và tìm hướng đi đến công_viên gần đó 
+__label__unknown xem video giới_thiệu sách mới và tìm_hiểu về thời_tiết tại biển đảo xa_xôi 
+__label__unknown tìm hướng đi đến bãi biển và hỏi về giá vé máy_bay 
+__label__unknown đặt lịch hẹn với học_viện và xem video về nấu_ăn nhanh
+__label__unknown hỏi về menu của nhà_hàng và mở video về yoga cho người mới bắt_đầu
+__label__unknown xem video về trang_trí nhà_cửa và hỏi về giá_cả của đồ điện_tử 
+__label__unknown tìm địa_chỉ của tiệm bánh và mở danh_sách nhạc_pop 
+__label__unknown đặt lịch hẹn với tài_xế taxi và xem video hướng_dẫn làm mô_hình nhà
+__label__unknown hỏi về thời_gian hoạt_động của nhà_thờ và tìm hướng đi đến thư_viện 
+__label__unknown xem video về làm bánh_mỳ và hỏi về thời_tiết tại nơi làm bánh
+__label__unknown tìm_kiếm thông_tin về vị_trí du_lịch và xem video giới_thiệu văn_học 
+__label__unknown đặt lịch hẹn với thợ sửa_chữa và mở video về nấu_ăn gia_đình
+__label__unknown hỏi về giá_cả của tour du_lịch và tìm hướng đi đến quận ẩm_thực 
+__label__unknown xem video hướng_dẫn trang_điểm và hỏi về giá vé xem phim
+__label__unknown giá xăng hôm_nay thời_tiết ngày_mai

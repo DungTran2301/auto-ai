@@ -1,0 +1,7 @@
+__label__giá_cả
+__label__hỏi_đáp
+__label__nghe_nhạc
+__label__thời_tiết
+__label__tìm_đường
+__label__unknown
+__label__xem_video

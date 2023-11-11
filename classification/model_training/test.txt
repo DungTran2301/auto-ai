@@ -1,0 +1,103 @@
+__label__nghe_nhạc chơi nhạc tặng anh cho cô ấy của khắc_việt
+__label__unknown xem video về công_nghệ mới và đặt lịch hẹn với bác_sĩ
+__label__unknown giới_thiệu về công_ty
+__label__hỏi_đáp so_sánh 58 và 34 số nào lớn hơn
+__label__unknown xem video giới_thiệu sách mới và tìm_hiểu về thời_tiết tại biển đảo xa_xôi
+__label__hỏi_đáp nếu bạn trừ 75 từ 90 bạn sẽ có bao_nhiêu
+__label__thời_tiết thời_tiết ở hà_tĩnh vào buổi sáng ngày_mai là gì
+__label__unknown tìm_kiếm thông_tin về vị_trí du_lịch và xem video giới_thiệu văn_học
+__label__nghe_nhạc nghe bài hát cây đàn sinh_viên của ca_sĩ quang_lê
+__label__nghe_nhạc bật nhạc ballad_buồn
+__label__xem_video xem video âm_nhạc nhạc_sĩ tự_sáng_tác
+__label__xem_video mở video âm_nhạc jazz và blues
+__label__nghe_nhạc chơi hit tháng năm không quên của onlyc
+__label__hỏi_đáp kết_quả của 40 4 là gì
+__label__hỏi_đáp máy_tính đầu_tiên do ai sáng_chế ra
+__label__nghe_nhạc nghe bài hát tình nghèo có nhau của ca_sĩ quang_dũng
+__label__hỏi_đáp 10 nhân 20 bằng bao_nhiêu
+__label__hỏi_đáp làm thế_nào để bảo_vệ mình trước các cuộc tấn_công mạng
+__label__giá_cả tỷ giá eurusd hôm_nay
+__label__thời_tiết thời_tiết ở cần thơ trong ngày_mai
+__label__thời_tiết dự_báo thời_tiết tại đà_nẵng vào sáng thứ_bảy là gì
+__label__thời_tiết thời_tiết ở cao_bằng vào cuối tháng này dự_kiến sẽ như_thế_nào
+__label__nghe_nhạc nghe hit như lời đồn của bảo anh
+__label__thời_tiết dự_báo thời_tiết tại kon_tum trong ngày_kia là gì
+__label__hỏi_đáp ba mươi_lăm cộng một_trăm bằng bao_nhiêu
+__label__nghe_nhạc nghe bài hát sài_gòn đẹp lắm
+__label__hỏi_đáp diện_tích của tam_giác có các cạnh là 15 mét 20 mét và 25 mét là bao_nhiêu mét_vuông
+__label__tìm_đường tìm trường_học quanh đây
+__label__xem_video video ca_nhạc nổi_tiếng của justin bieber
+__label__nghe_nhạc nghe bài hát cát bụi cuộc_đời
+__label__nghe_nhạc mở album nhạc rock
+__label__nghe_nhạc nghe bài hát biển tình của ca_sĩ lệ_quyên
+__label__hỏi_đáp hai mươi lũy thừa ba là bao_nhiêu
+__label__hỏi_đáp quốc_ca việt_nam sáng_tác năm nào
+__label__hỏi_đáp 15 nhân 20 bằng bao_nhiêu
+__label__tìm_đường chỉ đường đến quán ăn chay ngon
+__label__unknown tìm hướng đi đến công_viên và hỏi về dự_báo thời_tiết của ngày_mai
+__label__thời_tiết dự_báo thời_tiết tại bạc_liêu vào ngày chủ_nhật là gì
+__label__hỏi_đáp kết_quả của 20 chia 10 là gì
+__label__giá_cả giá vàng 9999 hôm_nay
+__label__unknown làm thế_nào để bắt_đầu một chỉ đường con ơi
+__label__hỏi_đáp 20 trừ 15 bằng bao_nhiêu
+__label__hỏi_đáp so_sánh 0 75 và 35 số nào lớn hơn
+__label__hỏi_đáp hiện_tượng nguyệt_thực và nhật_thực xảy ra khi nào và tại_sao chúng diễn ra
+__label__unknown thời_tiết hôm_nay không ảnh_hưởng đến bóng_đá
+__label__nghe_nhạc chơi_nhạc sóng_gió của jack và k icm
+__label__hỏi_đáp nếu bạn có một hình_tròn với bán_kính là 20 cm diện_tích của hình_tròn đó là bao_nhiêu xăng ti mét_vuông
+__label__unknown xem video về trang_trí nhà_cửa và hỏi về giá_cả của đồ điện_tử
+__label__nghe_nhạc nghe bài hát hải_đường vắng em của ca_sĩ quang_lê
+__label__unknown thiết_kế giao_diện người dùng động thích_ứng với mọi thiết_bị từ điện_thoại thông_minh đến máy_tính đồng_bộ
+__label__hỏi_đáp diện_tích của hình_chữ_nhật có chiều dài 12 cm và chiều rộng 8 cm là bao_nhiêu xăng ti mét_vuông
+__label__thời_tiết thời_tiết ở vinh vào buổi sáng thứ năm dự_kiến sẽ như_thế_nào
+__label__unknown hỏi về thời_tiết ở paris và chơi danh_sách nhạc ngẫu_nhiên
+__label__hỏi_đáp các sự_kiện lớn như sự_kiện big_bang và ý_nghĩa của chúng trong việc hiểu về nguồn_gốc của vũ_trụ là gì
+__label__unknown tìm_hiểu về triết_học đông_á
+__label__hỏi_đáp diện_tích tam_giác có 3 cạnh lần_lượt là 15 mét 20 mét 25 mét là bao_nhiêu
+__label__hỏi_đáp hai nhân 2 bằng bao_nhiêu
+__label__nghe_nhạc nghe bài hát cô gái m52 của huỳnh_james và pjnboys
+__label__xem_video xem video ca_nhạc_nhạc trẻ việt_nam mới nhất
+__label__hỏi_đáp bốn_mươi chia bởi năm bằng bao_nhiêu
+__label__nghe_nhạc nghe nhạc jazz mellow
+__label__thời_tiết thời_tiết ở huế chiều mai sẽ như thế_nào
+__label__giá_cả hôm nay giá dầu diesel bao nhiêu
+__label__hỏi_đáp diện_tích của hình_vuông có cạnh 10 cm là bao_nhiêu xăng ti mét_vuông
+__label__unknown hướng_dẫn tập_luyện cho người mới tập gym
+__label__nghe_nhạc nghe bài hát sương trắng miền quê ngoại của ca_sĩ thái_thanh
+__label__hỏi_đáp làm thế_nào các loại đá khác nhau được hình_thành và ảnh_hưởng đến môi_trường xung_quanh
+__label__unknown cách máy_học được sử_dụng để dự_đoán xu_hướng_tài_chính mở nhạc sông hồng
+__label__thời_tiết thời_tiết ở bình_dương vào buổi trưa chủ_nhật sẽ như_thế_nào
+__label__hỏi_đáp châu_lục nào lớn nhất thế_giới
+__label__hỏi_đáp làm thế_nào người ta giải_mã các chuỗi dna
+__label__thời_tiết dự_báo thời_tiết tại hải_dương vào buổi tối thứ tư là gì
+__label__hỏi_đáp làm thế_nào để giảm căng_thẳng và lo_âu trong cuộc_sống hàng ngày
+__label__hỏi_đáp hai mươi chia bởi năm bằng bao_nhiêu
+__label__nghe_nhạc nghe hit ngày_mai em đi
+__label__hỏi_đáp hai trăm cộng ba_mươi bằng bao_nhiêu
+__label__hỏi_đáp kết_quả của 25 chia 5 là gì
+__label__unknown thông_tin liên_hệ
+__label__unknown tại_sao một_số thành_phố lớn được xây_dựng gần các con giá dầu diesel
+__label__hỏi_đáp ai là họa_sĩ nổi_tiếng nhất trong lịch_sử nghệ_thuật
+__label__giá_cả giá vàng hôm_nay tại việt_nam
+__label__thời_tiết dự_báo thời_tiết tại vũng_tàu vào buổi tối thứ hai là gì
+__label__unknown tìm địa_chỉ của tiệm bánh và mở danh_sách nhạc_pop
+__label__hỏi_đáp mười chín cộng tám bằng mấy
+__label__hỏi_đáp trong cuộc chiến_tranh việt_nam cái tên hồ chí_minh đề_cập đến ai và vị_trí quan_trọng của ông trong lịch_sử việt_nam
+__label__unknown in bản_sao phản_bản
+__label__hỏi_đáp cách_mạng công_nghiệp là gì và ảnh_hưởng của nó đối_với xã_hội và kinh_tế thế_giới
+__label__xem_video mở video âm_nhạc trance và techno
+__label__nghe_nhạc chơi hit anh đã quen với cô_đơn
+__label__xem_video mở video âm_nhạc nhạc_trẻ việt_nam mới nhất
+__label__hỏi_đáp 6 25 bằng bao_nhiêu
+__label__tìm_đường chỉ đường đến nhà_hàng gần nhất
+__label__thời_tiết thời_tiết ở vũng_tàu trong tuần này dự_kiến sẽ như_thế_nào
+__label__unknown tôi muốn đặt bàn tại nhà_hàng đẹp nhất ở đây
+__label__hỏi_đáp hai tám và chín có phải là số trung_bình của bao_nhiêu số không
+__label__thời_tiết thời_tiết ở huế vào chiều thứ_sáu sẽ như_thế_nào
+__label__hỏi_đáp 15 x 20 bằng bao_nhiêu
+__label__nghe_nhạc nghe hit mới của sơn_tùng m tp
+__label__tìm_đường tìm đường từ công_viên thống_nhất đến nhà_ga hà_nội
+__label__giá_cả giá xăng ron 92 hôm nay là bao nhiêu
+__label__nghe_nhạc nghe hit em_gái mưa của hương tràm
+__label__unknown đặt lịch hẹn với tài_xế taxi và xem video hướng_dẫn làm mô_hình nhà
+__label__unknown đặt lịch hẹn với thợ sửa_chữa và mở video về nấu_ăn gia_đình
