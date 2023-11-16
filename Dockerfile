@@ -16,17 +16,14 @@ WORKDIR /app
 COPY requirements.txt /app/
 RUN pip install -r requirements.txt
 
+# RUN pip install pypiwin32
 # RUN pip install --upgrade pip && pip install -r requirements.txt
 # RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
 COPY . /app/
 
+
 RUN pip install django
-
-RUN python manage.py collectstatic --noinput
-
-RUN python manage.py migrate
-
 
 EXPOSE 8000
 
