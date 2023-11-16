@@ -1,0 +1,15 @@
+version: '3'
+services:
+  bff-service:
+    image: dungtrandang/auto-bff
+    container_name: bff-service
+    hostname: bff-service
+    ports:
+      - "8080:8080"
+
+  ai-service:
+    image: dungtrandang/command-classify
+    container_name: ai-service
+    hostname: ai-service
+    ports:
+      - "8000:8000"
